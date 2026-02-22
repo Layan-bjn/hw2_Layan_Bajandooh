@@ -1,0 +1,5 @@
+[2026-02-23T01:06:33] INVALID LINE: "Not Available" -InsufficientArgumentsException: Expected at least 2 arguments
+[2026-02-23T01:06:53] INVALID LINE: "java" -InvalidFileNameException: File does not end with .txt
+[2026-02-23T01:13:49] INVALID LINE: "Frozen:Diseny:9781484720363:aa" -MalformedBookEntryException: Copies must be a valid number
+[2026-02-23T01:15:47] INVALID LINE: "Superman::9781484720363:4" -MalformedBookEntryException: Author is empty
+[2026-02-23T01:16:13] INVALID LINE: ":Josh:9781484720363:4" -MalformedBookEntryException: Title is empty
